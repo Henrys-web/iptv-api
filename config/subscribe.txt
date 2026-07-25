@@ -1,11 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
-# 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
+# 支持设置UA：https://xxx.com UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
-# Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# Supports setting UA: https://xxx.com UA="xxx"
 
-
-
-
+https://githubusercontent.com UA=okHttp
+https://githubusercontent.com UA=okHttp
+https://github.io UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
