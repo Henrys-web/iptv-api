@@ -3,8 +3,11 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com UA="xxx"
 
-https://githubusercontent.com UA=okHttp
-https://githubusercontent.com UA=okHttp
+https://bdvcd.com UA=okHttp/Mod-1.5.0.0
+https://fanmingming.com UA="Mozilla/5.0 (Linux; Android 10; TV) AppleWebKit/537.36"
+https://githubusercontent.com UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"
+https://githubusercontent.com UA=okHttp/4.9.3
+https://githubusercontent.com UA=okHttp/4.9.3
 https://github.io UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
 [WHITELIST]
